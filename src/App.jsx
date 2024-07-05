@@ -34,7 +34,10 @@ function App() {
         </div>
 
         <div className="w-[7rem] md:w-[7rem] lg:w-[8rem] xl:w-[10rem] 2xl:w-[12.5rem] 3xl:w-[13rem] transition-transform hover:scale-110 duration-300 mt-[1.25rem] lg:mt-[1.5rem] xl:mt-[1.75rem] 2xl:mt-[2rem]">
-          <a href="https://twitter.com/" target="_blank">
+          <a
+            href="https://raydium.io/swap/?outputMint=tokenAddress&inputMint=sol"
+            target="_blank"
+          >
             <img src="./buy.png" className="w-full"></img>
           </a>
         </div>
