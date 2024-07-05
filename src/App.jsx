@@ -13,12 +13,12 @@ function App() {
 
         <div className="flex flex-row items-start space-x-3 md:space-x-3 lg:space-x-4 2xl:space-x-6 3xl:space-x-8">
           <div className="w-[2em] md:w-[2rem] lg:w-[2.5rem] 2xl:w-[3rem] 3xl:w-[3.5rem] transition-transform hover:scale-110 duration-300">
-            <a href="https://twitter.com/" target="_blank">
+            <a href="https://x.com/OutsiderSteve" target="_blank">
               <img src="./x.png" className="w-full"></img>
             </a>
           </div>
           <div className="w-[2rem] md:w-[2rem] lg:w-[2.5rem] 2xl:w-[3rem] 3xl:w-[3.5rem] transition-transform hover:scale-110 duration-300">
-            <a href="https://twitter.com/" target="_blank">
+            <a href="https://t.me/outsiderstevesol" target="_blank">
               <img src="./telegram.png" className="w-full"></img>
             </a>
           </div>
